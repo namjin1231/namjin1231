@@ -25,7 +25,7 @@
 ---
 
 ### 📫 How to reach me
-- Email: **nhj6388@gmail.com**
+- Email: **nhj6388@naver.com**
 - [LinkedIn (선택사항)](https://www.linkedin.com/in/your-link)
 - Blog (있다면 추가)
 
