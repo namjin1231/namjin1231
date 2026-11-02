@@ -21,12 +21,7 @@
 ![Namjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namjin1231&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namjin1231&layout=compact&theme=tokyonight)
 
----
 
-### 📫 How to reach me
-- Email: **nhj6388@naver.com**
-- [LinkedIn (선택사항)](https://www.linkedin.com/in/your-link)
-- Blog (있다면 추가)
 
 ---
 
